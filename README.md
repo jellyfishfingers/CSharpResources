@@ -1,5 +1,7 @@
 # CSharpResources
-C# Resources I've compiled (I used ChatGPT lah, omg.)
+
+C# Resources I've compiled (I have suggested this via ChatGPT)
+
 ---
 
 # 📘 C# Learning & Mastery Resources
@@ -39,6 +41,9 @@ A curated list of high-quality resources to **learn, reinforce, and master C#**,
 
 * **Platform**: Microsoft Learn
 * **Link**: [https://learn.microsoft.com](https://learn.microsoft.com)
+
+**Also**: FreeCodeCamp has certification for Foundation in C#
+https://learn.microsoft.com/en-us/dotnet/csharp/
 
 **Why**
 
