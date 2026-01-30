@@ -1,8 +1,6 @@
 # 📘 C# Learning & Mastery Resources
 
-C# Resources I've compiled (I have suggested this via ChatGPT)
-
-A curated list of high-quality resources to **learn, reinforce, and master C#**, from fundamentals to professional-level understanding.
+C# Resources I've compiled (I have suggested this via ChatGPT) A curated list of high-quality resources to **learn, reinforce, and master C#**, from fundamentals to professional-level understanding.
 ---
 
 ## 🌟 Core Foundations (Non-Negotiable)
